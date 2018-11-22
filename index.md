@@ -1,5 +1,6 @@
 # kamino410.github.io
-<img src="https://avatars1.githubusercontent.com/u/24355811" width=200>
+
+![nuko](https://pbs.twimg.com/profile_images/835859818162245633/T14PAg4L_200x200.jpg)
 
 ## Who am I?
 * kamino410
