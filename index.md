@@ -3,6 +3,7 @@
 ![nuko](https://pbs.twimg.com/profile_images/835859818162245633/T14PAg4L_200x200.jpg)
 
 ## Who am I?
+* かみの
 * kamino410
 * Osaka, Japan
 * Bachelor of Engineering
@@ -24,7 +25,7 @@
 * 2017 - VR Flight Simulator -AlbaSim-
   * [Movie](https://www.youtube.com/watch?v=gkGf1dIYQEk)
 * Osaka University COOP's internship program
-  * System engineer
+  * System engineer (C#, Windows Forms, PostgreSQL)
 * Commit to OpenCV
   * Document modification : [#12958](https://github.com/opencv/opencv/pull/12958)
 
