@@ -14,6 +14,8 @@
 * Hatena Blog : [かみのメモ](https://kamino.hatenablog.com/archive)
 
 ## Activities
+* 2014~2018 - Osaka University COOP's internship program
+  * System engineer (C#, Windows Forms, PostgreSQL)
 * 2015 - 無尾翼人力飛行機 麗月 (Human-powered Tail-less Aircraft -Raigetsu-)
   * Wing section
   * [Drawing (PDF)](https://drive.google.com/file/d/0B9IxzHX0crEOVjMxSm1FLWZ5cU0/view)
@@ -24,13 +26,14 @@
   * [Movie](https://www.youtube.com/watch?v=4WSvJkH92DI)
 * 2017 - VR Flight Simulator -AlbaSim-
   * [Movie](https://www.youtube.com/watch?v=gkGf1dIYQEk)
-* Osaka University COOP's internship program
-  * System engineer (C#, Windows Forms, PostgreSQL)
+
+----
+
+* Some small web applications for CV are published [here](https://kamino410.github.io/cv-snippets/).
 * Commit to OpenCV
   * Document modification : [#12958](https://github.com/opencv/opencv/pull/12958)
-
-## Web Applications
-Some small web applications for CV are published [here](https://kamino410.github.io/cv-snippets/).
+* Music game driven by PIC
+  * [Movie](https://youtu.be/qOXjCnSWSkk)
 
 ## Main Interests
 * Programming Languages
