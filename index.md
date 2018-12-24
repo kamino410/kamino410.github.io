@@ -50,3 +50,5 @@
 * Virtual Reality
 * Computer Graphics
 * Lens Optics
+
+<script src="/analytics.js"></script>
