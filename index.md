@@ -24,11 +24,12 @@
   * Aerodynamic designer / Manufacturing chief / Wing section
   * [Drawing (PDF)](https://drive.google.com/file/d/0B9IxzHX0crEOTlZ0bXZsMGlYTjQ/view)
   * [Movie](https://www.youtube.com/watch?v=4WSvJkH92DI)
-* 2017 - VR Flight Simulator \~AlbaSim\~
+* 2017 - AlbaSim : VR Flight Simulator
   * [Movie](https://www.youtube.com/watch?v=gkGf1dIYQEk)
+* 2019 - SENS HP (using Angular)
+  * [SENS HP](https://www.sens.sys.es.osaka-u.ac.jp/)
 
-
-* Some small web applications for CV are published [here](https://kamino410.github.io/cv-snippets/).
+* Some tiny web applications for CV are published [here](https://kamino410.github.io/cv-snippets/).
 * Commit to OpenCV
   * Document modification : [#12958](https://github.com/opencv/opencv/pull/12958)
 * Music game driven by PIC
@@ -41,15 +42,16 @@
 * Programming Languages
   * C++
   * Python
+  * CUDA
   * C#
   * JavaScript
   * Rust
-* Aerodynamics
 * Computer Vision
 * Mixed Reality
 * Virtual Reality
 * Computer Graphics
 * Lens Optics
+* Aerodynamics
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112076085-2"></script>
