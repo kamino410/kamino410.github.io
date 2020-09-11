@@ -1,4 +1,4 @@
-# kamino410.github.io
+# kamino410
 
 ![nuko](https://pbs.twimg.com/profile_images/835859818162245633/T14PAg4L_200x200.jpg)
 
@@ -30,9 +30,9 @@
 * 2017 - Funsion 360 auto drawing script
   * Script to draw 3D model of props used in AlbaSim
   * [GitHub](https://github.com/kamino410/FusionScripts)
-* 2017 - Music game driven by PIC assembler
+* 2017 - Music game driven by PIC
   * [Movie](https://youtu.be/qOXjCnSWSkk)
-* 2018 - SENS HP (using Angular)
+* 2018 - SENS HP (Angular SPA)
   * [SENS HP](https://www.sens.sys.es.osaka-u.ac.jp/)
 * 2018 - Commit to OpenCV
   * Document modification : [#12958](https://github.com/opencv/opencv/pull/12958)
@@ -43,8 +43,13 @@
   * Robust 3-step phase-shifting method combined with graycode patterns.
   * [GitHub](https://github.com/kamino410/phase-shifting)
 * 2019 - Augmented Environment Mapping for Appearance Editing of Glossy Surfaces
-  * ISMAR 2019
-  * [Movie](https://www.youtube.com/watch?v=L5V_Oa3PycI)
+  * [Project Page](http://daisukeiwai.org/en/research/augenvmap.html)
+* 2019 - AVL HP (Angular SPA)
+  * [AVL HP](https://ar.c.titech.ac.jp/)
+* 2020 - DehazeGlasses: Optical Dehazing with an Occlusion Capable See-Through Display (2nd Author)
+  * [Project Page](https://www.ar.c.titech.ac.jp/projects/dehazeglasses-2020)
+* 2020 - StainedView: Variable-Intensity Light-Attenuation Display with Cascaded Spatial Color Filtering for Improved Color Fidelity
+  * [Project Page](https://www.ar.c.titech.ac.jp/projects/stainedview-2020)
 
 # Main Interests
 * Programming Languages
