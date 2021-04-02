@@ -5,14 +5,25 @@
 ## Who am I?
 * かみの
 * kamino410
-* Kanagawa, Japan 
-* Master student of Engineering
+* Kanagawa, Japan
+* Engineer of R&D department in a company
+* Master of Engineering
 
 ## SNS & Blog
 * GitHub : [kamino410](https://github.com/kamino410)
   * Some small web applications for CV are published [here](https://kamino410.github.io/cv-snippets/).
 * Twitter : [Kamino410](https://twitter.com/Kamino410)
 * Hatena Blog : [かみのメモ](https://kamino.hatenablog.com/archive)
+
+## Publications
+* Kaminokado, Takumi, Daisuke Iwai, and Kosuke Sato. "Augmented Environment Mapping for Appearance Editing of Glossy Surfaces." 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2019.
+  * [Project Page](http://daisukeiwai.org/en/research/augenvmap.html)
+* Hiroi, Yuichi, et al. "Dehazeglasses: Optical dehazing with an occlusion capable see-through display." Proceedings of the Augmented Humans International Conference. 2020.
+  * [Project Page](https://www.ar.c.titech.ac.jp/projects/dehazeglasses-2020)
+* Kaminokado, Takumi, Yuichi Hiroi, and Yuta Itoh. "StainedView: Variable-Intensity Light-Attenuation Display with Cascaded Spatial Color Filtering for Improved Color Fidelity." IEEE Transactions on Visualization and Computer Graphics 26.12 (2020): 3576-3586 (ISMAR 2020).
+  * [Project Page](https://www.ar.c.titech.ac.jp/projects/stainedview-2020)
+* Itoh, Yuta, Takumi Kaminokado, and Kaan Aksit. "Beaming Displays." IEEE Transactions on Visualization & Computer Graphics 01 (2021): 1-1 (IEEE VR 2021).
+  * [Project Page](https://www.ar.c.titech.ac.jp/projects/beamingdisplays-2021)
 
 ## Activities
 * 2014~2018 - Osaka University COOP internship program
@@ -42,14 +53,8 @@
 * 2019 - phase-shifting
   * Robust 3-step phase-shifting method combined with graycode patterns.
   * [GitHub](https://github.com/kamino410/phase-shifting)
-* 2019 - Augmented Environment Mapping for Appearance Editing of Glossy Surfaces
-  * [Project Page](http://daisukeiwai.org/en/research/augenvmap.html)
 * 2019 - AVL HP (Angular SPA)
   * [AVL HP](https://ar.c.titech.ac.jp/)
-* 2020 - DehazeGlasses: Optical Dehazing with an Occlusion Capable See-Through Display (2nd Author)
-  * [Project Page](https://www.ar.c.titech.ac.jp/projects/dehazeglasses-2020)
-* 2020 - StainedView: Variable-Intensity Light-Attenuation Display with Cascaded Spatial Color Filtering for Improved Color Fidelity
-  * [Project Page](https://www.ar.c.titech.ac.jp/projects/stainedview-2020)
 
 # Main Interests
 * Programming Languages
